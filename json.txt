@@ -1,0 +1,4 @@
+{
+  "name" : "sample String",
+  "value" : 100500
+}
